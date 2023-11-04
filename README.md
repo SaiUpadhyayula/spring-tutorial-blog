@@ -10,14 +10,18 @@ Module - 1: Introduction to Spring Boot ✅
 
 Module - 2: Building REST APIs with Spring Boot ✅
 
-Module - 3: Accessing Data with Spring Data JDBC
+Module - 3: Consuming REST APIs
 
-Module 4 - Securing Spring Applications
+Module - 4: Performing Input Validation
 
-Module 5 - Spring Boot Actuator
+Module - 5: Data Access with Spring Data JDBC
 
-Module 6 - Testing Spring Boot Applications
+Module - 6: Securing Spring Boot Applications
 
-Module 7 - Deploying Spring Boot Applications
+Module - 7: Spring Boot Actuator
 
-Module 8 - Understanding Spring Boot Autoconfiguration
+Module - 8: Testing Spring Boot Applications
+
+Module - 9: Deploying Spring Boot Applications
+
+Module - 10: Understanding Spring Boot Autoconfiguration
