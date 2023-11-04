@@ -16,8 +16,8 @@ Module 4 - Securing Spring Applications
 
 Module 5 - Spring Boot Actuator
 
-Module 6 - Monitoring Spring Boot Applications
+Module 6 - Testing Spring Boot Applications
 
 Module 7 - Deploying Spring Boot Applications
 
-Module 8 - Testing Spring Boot Applications
+Module 8 - Understanding Spring Boot Autoconfiguration
