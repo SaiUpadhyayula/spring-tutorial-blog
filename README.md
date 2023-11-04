@@ -1,4 +1,4 @@
-#Spring Boot Blog
+# Spring Boot Blog
 
 This repository contains source code for the Complete Spring Boot Course, which will be released on Youtube.
 
