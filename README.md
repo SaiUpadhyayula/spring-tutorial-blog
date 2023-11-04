@@ -12,7 +12,7 @@ Module - 2: Building REST APIs with Spring Boot ✅
 
 Module - 3: Accessing Data with Spring Data JDBC
 
-Module 4 - Securing Spring MVC Applications
+Module 4 - Securing Spring Applications
 
 Module 5 - Spring Boot Actuator
 
